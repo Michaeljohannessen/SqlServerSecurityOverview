@@ -1,4 +1,4 @@
-# MSSQL Source Control
+# Microsoft SQL Server Security Overview
 This repository contains a script that gives you an overview of permissions on your database.
 
 ## Requirements
